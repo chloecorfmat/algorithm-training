@@ -1,10 +1,10 @@
-# Training - Entraînement à l'algorithmie
+# Algorithm training
 
-Ce repository me permet de garder une trace de mes entraînements à l'algorithmie. 
+This repository allows me to keep track of my algorithm training.
 
-## Liens utiles
+## Useful links
 
-Pour ces entraînements, j'utilise actuellement le site [LeetCode](https://leetcode.com/).
+I use the following website [LeetCode](https://leetcode.com/).
 
 ## Authors
 
